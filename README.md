@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, my name is Dhakeswor! 👋
 
-<!--
-**Dhakeswor17/Dhakeswor17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of ICT at Metropolia University of Applied Sciences.
 
-Here are some ideas to get you started:
+## 📊 My Statistics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=dark)
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin/)
+
+
