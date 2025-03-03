@@ -45,6 +45,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&theme=tokyonight" width="48%" />
+  ## 💻 Most Used Languages (Self-Reported)
+- TypeScript (Projects: 8)
+- JavaScript (Projects: 6)
+- SQL (Projects: 3)
+- C++ (Projects: 2)
+- HTML & CSS (Projects: 5)
+
 </p>
 
 ---
@@ -77,6 +84,4 @@
 
 ---
 
-🌟 **“Passionate about solving problems through code and learning something new every day!”**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+🌟 **“Passionate about solving problems through code and learning something new every day!”**'
