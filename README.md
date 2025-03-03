@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I’m Dhakeswor Nyaupane! </h1>
 
 <p align="center">
-🖥️ Software Developer | 🎓 ICT & Industrial Engineer | 🌍 Based in Finland
+🖥️ Software Developer | 🎓 ICT & Software Engineer | 🌍 Based in Finland
 </p>
 
 ---
@@ -78,3 +78,5 @@
 ---
 
 🌟 **“Passionate about solving problems through code and learning something new every day!”**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
