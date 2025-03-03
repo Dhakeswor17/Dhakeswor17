@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I’m Dhakeswor Nyaupane! </h1>
 
 <p align="center">
-💻 Software Developer | 🎓 ICT & Softwear Engineer | 🌍 Based in Finland
+🖥️ Software Developer | 🎓 ICT & Industrial Engineer | 🌍 Based in Finland
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ## 🌐 About Me
 - 🎓 Bachelor of Engineering (ICT) - Metropolia UAS, Finland
 - 🎓 Bachelor of Engineering (Industrial Management) - Centria UAS, Finland
-- 💼 Senior Lab Engineer @ Microsoft Espoo
-- 💻 Passionate about Full-Stack Development, Cloud, and IoT Projects
+- 🏢 Senior Lab Engineer @ Microsoft Espoo
+- 🖥️ Passionate about Full-Stack Development, Cloud, and IoT Projects
 - 🎯 Always learning and improving
 
 ---
@@ -71,13 +71,10 @@
 
 ---
 
-## 📫 Contact
+## 📧 Contact
 📧 Email: santoshneupane17@gmail.com  
 📞 Phone: +358 44 968 4333  
 
 ---
 
-⭐️ **“Passionate about solving problems through code and learning something new every day!”**
-
----
-
+🌟 **“Passionate about solving problems through code and learning something new every day!”**
