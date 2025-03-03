@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I’m Dhakeswor Nyaupane! </h1>
 
 <p align="center">
-💻 Software Developer | 🎓 ICT & Industrial Engineer | 🌍 Based in Finland
+💻 Software Developer | 🎓 ICT & Softwear Engineer | 🌍 Based in Finland
 </p>
 
 ---
