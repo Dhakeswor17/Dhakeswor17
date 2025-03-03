@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I’m Dhakeswor Nyaupane! </h1>
+<h1 align="center">🌟 Welcome to My GitHub Space! 🌟</h1>
 
 <p align="center">
-🖥️ Software Developer | 🎓 ICT & Software Engineer | 🌍 Based in Finland
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=500&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Automation+Specialist;Passionate+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
@@ -29,59 +29,47 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgresql,java,cpp,linux,git,csharp" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&theme=tokyonight" width="48%" />
-  ## 💻 Most Used Languages (Self-Reported)
-- TypeScript (Projects: 8)
-- JavaScript (Projects: 6)
-- SQL (Projects: 3)
-- C++ (Projects: 2)
-- HTML & CSS (Projects: 5)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&langs_count=6&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=algolia&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=dracula&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-## 🚀 Projects
-🔗 [Smart Weather Station (IoT Project)](https://github.com/Dhakeswor17/Project3_smartweatherApp)  
-🔗 [World Country Visualization (Data Visualization App)](https://world-country-visualization.vercel.app/)  
-🔗 [Heart Animation (Creative JS Project)](https://advanced-js-project.vercel.app/)  
-🔗 [Password Generator (Web Tool)](https://advanced-js-project-wh8j.vercel.app/)
+## 🚀 Featured Projects
+- 🔗 [Smart Weather Station (IoT Project)](https://github.com/Dhakeswor17/Project3_smartweatherApp)
+- 🔗 [World Country Visualization (Data Visualization App)](https://world-country-visualization.vercel.app/)
+- 🔗 [Heart Animation (Creative JS Project)](https://advanced-js-project.vercel.app/)
+- 🔗 [Password Generator (Web Tool)](https://advanced-js-project-wh8j.vercel.app/)
 
 ---
 
 ## 📧 Contact
-📧 Email: santoshneupane17@gmail.com  
-📞 Phone: +358 44 968 4333  
+- 📧 Email: santoshneupane17@gmail.com
+- 📞 Phone: +358 44 968 4333
 
 ---
 
-🌟 **“Passionate about solving problems through code and learning something new every day!”**'
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Happy+Coding!+%F0%9F%92%BB" />
+</p>
