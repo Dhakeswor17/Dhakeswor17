@@ -10,6 +10,6 @@ I'm a Bachelor of ICT at Metropolia University of Applied Sciences.
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=dark)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/santosh-nyaupane-182745139/)
 
 
