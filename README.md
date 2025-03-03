@@ -12,4 +12,6 @@ I'm a Bachelor of ICT at Metropolia University of Applied Sciences.
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/santosh-nyaupane-182745139/)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakeswor17&layout=compact&theme=dark)
+
 
