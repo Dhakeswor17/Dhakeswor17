@@ -62,7 +62,7 @@
 - 🔗 [Password Generator (Web Tool)](https://advanced-js-project-wh8j.vercel.app/)
 - 🔗 [Todo App (Task Manager)](https://todo-app-tau-nine-52.vercel.app/)
 - 🔗 [World Countris search (World Countries)](https://world-county-list.vercel.app/)
-- 🔗 [Find the Barber Shop (Barber shop)](https://vercel.com/dhakeswor17s-projects/barber-shop)
+- 🔗 [Find the Barber Shop (Barber shop)](https://barber-shop-flax.vercel.app/)
 - 
 
 ---
