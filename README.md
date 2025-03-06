@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to My GitHub Space! 🌟</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=500&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Automation+Specialist;Passionate+Learner+%7C+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=500&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+;Passionate+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
