@@ -38,6 +38,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakeswor17&theme=radical&hide_border=true" width="48%" /> </p>
 
 ---
 
@@ -45,6 +47,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
 </p>
+
 
 ---
 
@@ -56,7 +59,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [Smart Weather Station (IoT Project)](https://github.com/Dhakeswor17/Project3_smartweatherApp)
+- 🔗 [Smart Weather Station (IoT Project)](https://github.com/Dhakeswor17/Project3_smartweatherApp) 
 - 🔗 [World Country Visualization (Data Visualization App)](https://world-country-visualization.vercel.app/)
 - 🔗 [Heart Animation (Creative JS Project)](https://advanced-js-project.vercel.app/)
 - 🔗 [Password Generator (Web Tool)](https://advanced-js-project-wh8j.vercel.app/)
