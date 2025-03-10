@@ -63,9 +63,8 @@
 - 🔗 [Todo App (Task Manager)](https://todo-app-tau-nine-52.vercel.app/)
 - 🔗 [World Countris search (World Countries)](https://world-county-list.vercel.app/)
 - 🔗 [Find the Barber Shop (Barber shop)](https://barber-shop-flax.vercel.app/)
-- 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📧 Contact
 - 📧 Email: santoshneupane17@gmail.com
