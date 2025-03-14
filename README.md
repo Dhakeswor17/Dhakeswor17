@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=600&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Passionate+Learner+%7C+Problem+Solver;Exploring+New+Technologies+Everyday!" />
 </p>
 
----
+-----
 
 ## 🌍 About Me  
 
@@ -73,12 +73,13 @@
 
 ---
 
-## 📧 Contact  
-📩 **Email:** santoshneupane17@gmail.com  
-📞 **Phone:** +358 44 968 4333  
-
----
-
-<p align="center">
+## 💼 Hire Me
+- 📧 Email: santoshneupane17@gmail.com
+- 📞 **Phone:** +358 44 968 4333  
+- 📍 Location: Finland (Remote || physical )
+- 💻 Open to full-time, contract, and freelance opportunities.
+--------
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Happy+Coding!+🚀🔥" />
 </p>
+
