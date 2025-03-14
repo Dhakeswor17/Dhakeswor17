@@ -35,8 +35,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakeswor17&theme=radical&hide_border=true" width="48%" /> </p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakeswor17&theme=dark" width="48%" />
+
+</p>
+
+
 
 ---
 
