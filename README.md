@@ -73,7 +73,8 @@
 
 ---
 
-## 💼 Hire Me
+💼 Hire Me 🚀
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Looking+for+a+Passionate+Developer%3F;💡+Let's+Build+Something+Great+Together!;🎯+Full-Stack+%7C+Cloud+%7C+IoT+%7C+AI" /> </p>
 - 📧 Email: santoshneupane17@gmail.com
 - 📞 **Phone:** +358 44 968 4333  
 - 📍 Location: Finland (Remote || physical )
