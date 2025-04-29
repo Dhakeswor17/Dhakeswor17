@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhakeswor17&color=blue)
 
+
+
 <h1 align="center">🚀 Welcome to My GitHub Universe! 🌟</h1>
 
 <p align="center">
@@ -52,6 +54,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
 </p>
+## See my LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhakeswor)
 
 ---
 
