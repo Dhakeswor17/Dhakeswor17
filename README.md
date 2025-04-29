@@ -54,10 +54,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
 </p>
-<p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhakeswor)
-</p>
+
+## 📊 LeetCode Stats  
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/dhakeswor)
+
+
 ---
 
 ## 🏆 Achievements  
