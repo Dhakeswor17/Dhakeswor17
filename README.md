@@ -18,9 +18,7 @@
 - 🖥️ **Passionate about:** Full-Stack Development, Cloud Computing, IoT, and AI  
 - 🎯 **Lifelong learner, always up for a challenge!**  
 
-**🌎 Languages:**  
-- 🏆 **English** - Fluent  
-- 🏆 **Finnish** - Intermediate  
+
 
 ---
 
