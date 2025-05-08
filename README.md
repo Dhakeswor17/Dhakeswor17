@@ -18,7 +18,9 @@
 - 🖥️ **Passionate about:** Full-Stack Development, Cloud Computing, IoT, and AI  
 - 🎯 **Lifelong learner, always up for a challenge!**  
 
-
+**🌎 Languages:**  
+- 🏆 **English** - Fluent  
+- 🏆 **Finnish** - Intermediate 
 
 ---
 
@@ -65,9 +67,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=dracula&no-frame=true&no-bg=true" />
 </p>
-**🌎 Languages:**  
-- 🏆 **English** - Fluent  
-- 🏆 **Finnish** - Intermediate  
+ 
 
 ---
 
