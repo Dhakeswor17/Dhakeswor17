@@ -1,7 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhakeswor17&color=blue)
 
-
-
 <h1 align="center">🚀 Welcome to My GitHub Universe! 🌟</h1>
 
 <p align="center">
@@ -14,7 +12,8 @@
 
 - 🎓 **Bachelor of Engineering (ICT)** - Metropolia UAS, Finland  
 - 🎓 **Bachelor of Engineering (Industrial Management)** - Centria UAS, Finland  
-- 🏢 **Senior Lab Engineer @ Microsoft Espoo**  
+- 🏢 **Data Center Technician  @ Google (since April 2025)**  
+- 🏢 **Former Senior Lab Engineer @ Microsoft Espoo (until April 2025)**  
 - 🖥️ **Passionate about:** Full-Stack Development, Cloud Computing, IoT, and AI  
 - 🎯 **Lifelong learner, always up for a challenge!**  
 
@@ -55,11 +54,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
 </p>
 
-
 ## 📊 LeetCode Stats  
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/dhakeswor17)
-
 
 ---
 
@@ -82,17 +79,48 @@
 
 ---
 
-💼 Hire Me 🚀
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Looking+for+a+Passionate+Developer%3F;💡+Let's+Build+Something+Great+Together!;🎯+Full-Stack+%7C+Cloud+%7C+IoT+%7C+AI" /> </p> <table align="center"> <tr> <td align="center"><h3>📬 Contact Information</h3></td> <td align="center"><h3>⚡ Why Hire Me?</h3></td> </tr> <tr> <td> 📩 <strong>Email:</strong> <a href="mailto:santoshneupane17@gmail.com">santoshneupane17@gmail.com</a> <br> 📞 <strong>Phone:</strong> +358 44 968 4333 <br> 📍 <strong>Location:</strong> World Wide (Remote | On-Site) </td> <td> ✅ <strong>Passionate Developer</strong> – Creating innovative, efficient, and scalable solutions. <br> ✅ <strong>Diverse Skillset</strong> – Full-stack, Cloud, IoT, AI, and Problem-Solving. <br> ✅ <strong>Team Player & Fast Learner</strong> – Always adapting to new technologies. <br> ✅ <strong>Proven Track Record</strong> – Industry experience at Microsoft Espoo. </td> </tr> </table><br><br>
+💼 Hire Me 🚀  
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Looking+for+a+Passionate+Developer%3F;💡+Let's+Build+Something+Great+Together!;🎯+Full-Stack+%7C+Cloud+%7C+IoT+%7C+AI" /> 
+</p>
+
+<table align="center"> 
+<tr> 
+  <td align="center"><h3>📬 Contact Information</h3></td> 
+  <td align="center"><h3>⚡ Why Hire Me?</h3></td> 
+</tr> 
+<tr> 
+  <td> 
+    📩 <strong>Email:</strong> <a href="mailto:santoshneupane17@gmail.com">santoshneupane17@gmail.com</a> <br> 
+    📞 <strong>Phone:</strong> +358 44 968 4333 <br> 
+    📍 <strong>Location:</strong> World Wide (Remote | On-Site) 
+  </td> 
+  <td> 
+    ✅ <strong>Passionate Developer</strong> – Creating innovative, efficient, and scalable solutions. <br> 
+    ✅ <strong>Diverse Skillset</strong> – Full-stack, Cloud, IoT, AI, and Problem-Solving. <br> 
+    ✅ <strong>Team Player & Fast Learner</strong> – Always adapting to new technologies. <br> 
+    ✅ <strong>Proven Track Record</strong> – Experience at Google and Microsoft. 
+  </td> 
+</tr> 
+</table>
+
+<br><br>
 🌐 Let's Connect & Build Something Amazing Together! 🚀 <br><br><br>
-<p align="center"> <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Dhakeswor17"> <img src="https://img.shields.io/badge/GitHub-Portfolio-grey?style=for-the-badge&logo=github" /> </a> <a href="mailto:santoshneupane17@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p><br><br>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://github.com/Dhakeswor17"> 
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-grey?style=for-the-badge&logo=github" /> 
+  </a> 
+  <a href="mailto:santoshneupane17@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+</p><br><br>
 
 --------
 
-
-  <p align="center"><br>
-    
+<p align="center"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Happy+Coding!+🚀🔥" />
 </p>
-
-
