@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhakeswor17&color=blue)
 
-
-
+<h1 align="center">🚀 Welcome to My GitHub Universe! 🌟</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=600&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Passionate+Learner+%7C+Problem+Solver;Exploring+New+Technologies+Everyday!" />
 </p>
