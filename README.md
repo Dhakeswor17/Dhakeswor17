@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Dhakeswor17&color=blue)
 
 <h1 align="center">🚀 Welcome to My GitHub Universe! 🌟</h1>
 <p align="center">
