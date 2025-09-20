@@ -18,7 +18,7 @@
 
 **🌎 Languages:**  
 - 🏆 **English** - Fluent
-- - 🏆 **Hindi** - Fluent
+-  🏆 **Hindi** - Fluent
 - 🏆 **Finnish** - Intermediate
 
 
