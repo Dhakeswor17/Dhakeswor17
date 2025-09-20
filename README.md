@@ -17,9 +17,10 @@
 - 🎯 **Lifelong learner, always up for a challenge!**  
 
 **🌎 Languages:**  
-- 🏆 **English** - Fluent  
+- 🏆 **English** - Fluent
+- - 🏆 **Hindi** - Fluent
 - 🏆 **Finnish** - Intermediate
-- 🏆 **Hindi** - Fluent
+
 
 ---
 
