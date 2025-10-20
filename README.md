@@ -14,7 +14,7 @@
 - 🏢 **Data Center Technician  @ Google (since April 2025 to till now)**  
 - 🏢 **Former Senior Lab Engineer @ Microsoft Espoo (until April 2025)**  
 - 🖥️ **Passionate about:** Full-Stack Development, Cloud Computing, IoT, and AI
-- - 🎯 **Lifelong learner, always up for a challenge!**   
+-  🎯 **Lifelong learner, always up for a challenge!**   
 
 
 **🌎 Languages:**  
