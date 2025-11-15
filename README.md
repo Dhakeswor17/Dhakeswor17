@@ -20,7 +20,7 @@
 **🌎 Languages:**  
 - 🏆 **English** - Fluent
 -  🏆 **Hindi** - Fluent
-- 🏆 **Finnish** - 
+- 🏆 **Finnish** - Intermediate
 
 
 ---
