@@ -109,7 +109,7 @@
   <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/"> 
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="https://www.santoshnyaupane.com/"> 
+  <a href="https://github.com/Dhakeswor17/Dhakeswor17/"> 
     <img src="https://img.shields.io/badge/GitHub-Portfolio-grey?style=for-the-badge&logo=github" /> 
   </a> 
   <a href="mailto:santoshneupane17@gmail.com"> 
