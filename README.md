@@ -1,138 +1,161 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Dhakeswor17&color=blue)
-
-<h1 align="center">🚀 Welcome to My GitHub Universe! 🌟</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&width=600&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Passionate+Learner+%7C+Problem+Solver;Exploring+New+Technologies+Everyday!" />
+<!-- PROFILE VIEWS -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dhakeswor17&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<!-- HEADER -->
+<h1 align="center">🚀 Welcome to My GitHub Universe 🌌</h1>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello%2C+I+am+Dhakeswor+Nyaupane;Software+Developer+in+Finland;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Passionate+Learner+%7C+Problem+Solver;Exploring+New+Technologies+Everyday!;Building+Modern+Web+%26+Cloud+Applications" />
+</p>
+
+<!-- 3D DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=header"/>
+</p>
+
+<!-- WEBSITE BUTTON -->
 <p align="center">
   <a href="https://www.santoshnyaupane.com/">
-    <img src="https://img.shields.io/badge/🌐_Personal_Website-Visit_Now-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-www.santoshnyaupane.com-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
------
+<!-- SOCIAL ICONS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Dhakeswor17">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.santoshnyaupane.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="50"/>
+  </a>
+</p>
 
-## 🌍 About Me  
+---
+
+# 🌍 About Me  
 
 - 🎓 **Bachelor of Engineering (ICT)** - Metropolia UAS, Finland  
 - 🎓 **Bachelor of Engineering (Industrial Management)** - Centria UAS, Finland  
-- 🏢 **Data Center Technician  @ Google (since April 2025 to till now)**  
+- 🏢 **Data Center Technician @ Google (since April 2025 to till now)**  
 - 🏢 **Former Senior Lab Engineer @ Microsoft Espoo (until April 2025)**  
-- 🖥️ **Passionate about:** Full-Stack Development, Cloud Computing, IoT, and AI
--  🎯 **Lifelong learner, always up for a challenge!**   
-
-
-**🌎 Languages:**  
-- 🏆 **English** - Fluent
--  🏆 **Hindi** - Fluent
-- 🏆 **Finnish** - Intermediate
-
+- 🖥️ Passionate about **Full-Stack Development, Cloud Computing, IoT & AI**  
+- 🎯 Lifelong learner, always ready for new challenges  
 
 ---
 
-## 🔗 Connect With Me  
+# 🌎 Languages  
+
+- 🏆 English - Fluent  
+- 🏆 Hindi - Fluent  
+- 🏆 Finnish - Intermediate  
+
+---
+
+# 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Dhakeswor17">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-grey?logo=github" />
-  </a>
-  <a href="https://www.santoshnyaupane.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgresql,java,cpp,linux,git,csharp,docker,aws,azure&perline=7" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+# ⚡ 3D Contribution Snake  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgresql,java,cpp,linux,git,csharp,docker,aws,azure" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakeswor17&theme=radical&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhakeswor17&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhakeswor17&theme=tokyonight&hide_border=true&border_radius=20"/>
 </p>
 
 ---
-## 📈 Contribution Graph  
+
+# 📈 Contribution Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhakeswor17&theme=tokyo-night&hide_border=true&radius=16"/>
 </p>
 
+---
 
+# 🏆 Achievements  
 
-## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=dracula&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhakeswor17&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
- 
 
 ---
 
-## 🚀 Featured Projects  
-- 🔗 [🌦️ Smart Weather Station (IoT Project)](https://github.com/Dhakeswor17/Project3_smartweatherApp)  
-- 🔗 [🌎 World Country Visualization (Data Visualization App)](https://world-country-visualization.vercel.app/)  
-- 🔗 [❤️ Heart Animation (Creative JS Project)](https://advanced-js-project.vercel.app/)  
-- 🔗 [🔐 Password Generator (Web Tool)](https://advanced-js-project-wh8j.vercel.app/)  
-- 🔗 [📝 Todo App (Task Manager)](https://todo-app-tau-nine-52.vercel.app/)  
-- 🔗 [🌍 World Countries Search](https://world-county-list.vercel.app/)  
-- 🔗 [💈 Find the Barber Shop](https://barber-shop-flax.vercel.app/)  
+# 🚀 Featured Projects  
+
+| 🌟 Project | 🔗 Link |
+|---|---|
+| 🌦️ Smart Weather Station (IoT Project) | [Open Project](https://github.com/Dhakeswor17/Project3_smartweatherApp) |
+| 🌎 World Country Visualization | [Live Demo](https://world-country-visualization.vercel.app/) |
+| ❤️ Heart Animation | [Live Demo](https://advanced-js-project.vercel.app/) |
+| 🔐 Password Generator | [Live Demo](https://advanced-js-project-wh8j.vercel.app/) |
+| 📝 Todo App | [Live Demo](https://todo-app-tau-nine-52.vercel.app/) |
+| 🌍 World Countries Search | [Live Demo](https://world-county-list.vercel.app/) |
+| 💈 Find the Barber Shop | [Live Demo](https://barber-shop-flax.vercel.app/) |
 
 ---
 
-💼 Hire Me 🚀  
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Looking+for+a+Passionate+Developer%3F;💡+Let's+Build+Something+Great+Together!;🎯+Full-Stack+%7C+Cloud+%7C+IoT+%7C+AI" /> 
+# 💼 Hire Me 🚀  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Looking+for+a+Passionate+Developer%3F;Let's+Build+Something+Amazing+Together!;Full-Stack+%7C+Cloud+%7C+IoT+%7C+AI" />
 </p>
 
-<table align="center"> 
-<tr> 
-  <td align="center"><h3>📬 Contact Information</h3></td> 
-  <td align="center"><h3>⚡ Why Hire Me?</h3></td> 
-</tr> 
-<tr> 
-  <td> 
-    📩 <strong>Email:</strong> <a href="mailto:santoshneupane17@gmail.com">santoshneupane17@gmail.com</a> <br> 
-    📞 <strong>Phone:</strong> +358 44 968 4333 <br> 
-    📍 <strong>Location:</strong> World Wide (Remote | On-Site) <br>
-    🌐 <strong>Website:</strong> <a href="https://www.santoshnyaupane.com/">www.santoshnyaupane.com</a>
-  </td> 
-  <td> 
-    ✅ <strong>Passionate Developer</strong> – Creating innovative, efficient, and scalable solutions. <br> 
-    ✅ <strong>Diverse Skillset</strong> – Full-stack, Cloud, IoT, AI, and Problem-Solving. <br> 
-    ✅ <strong>Team Player & Fast Learner</strong> – Always adapting to new technologies. <br> 
-    ✅ <strong>Proven Track Record</strong> – Experience at Google and Microsoft. 
-  </td> 
-</tr> 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📬 Contact Information
+
+- 📩 Email: **santoshneupane17@gmail.com**  
+- 📞 Phone: **+358 44 968 4333**  
+- 🌐 Website: **https://www.santoshnyaupane.com/**  
+- 📍 Location: **Finland | Remote | On-Site**  
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Why Hire Me?
+
+- ✅ Passionate Full-Stack Developer  
+- ✅ Cloud, AI & IoT Enthusiast  
+- ✅ Fast Learner & Team Player  
+- ✅ Experience at Google & Microsoft  
+- ✅ Problem Solver with Real Projects  
+
+</td>
+</tr>
 </table>
 
-<br><br>
-🌐 Let's Connect & Build Something Amazing Together! 🚀 <br><br><br>
+---
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/santosh-nyaupane-182745139/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  <a href="https://github.com/Dhakeswor17/Dhakeswor17/"> 
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-grey?style=for-the-badge&logo=github" /> 
-  </a> 
-  <a href="https://www.santoshnyaupane.com/"> 
-    <img src="https://img.shields.io/badge/🌐_My_Website-Visit_Now-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
-  </a> 
-  <a href="mailto:santoshneupane17@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a> 
-</p><br><br>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
+</p>
 
---------
-
-<p align="center"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Happy+Coding!+🚀🔥" />
+<!-- FINAL MESSAGE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Happy+Coding!+🚀🔥;Let's+Connect+and+Build+Something+Great!" />
 </p>
